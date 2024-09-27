@@ -1,4 +1,4 @@
-import { Home } from "./Components/home";
+import { Home } from "./Components/Home";
 import { useState } from "react";
 import GamePlay from "./Components/GamePlay";
 
